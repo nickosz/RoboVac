@@ -1,7 +1,7 @@
 package main.java;
 
-public class RoomMaker {
-    private int[][] room;
+public class Room {
+    private int[][] room2;
 
     public int[][] setRoom(int n, int m) {
         int room[][] = new int[n][m];
